@@ -1,5 +1,5 @@
 # hapistarterkit
-This is a startup kit that you can use to server up web pages using Hapi as your server engine.
+This is a node startup kit that you can use to server up web pages using Hapi as your server engine.
 
 This startup kit includes the following:
 - Hapi
